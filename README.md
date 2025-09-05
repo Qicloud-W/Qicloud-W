@@ -23,11 +23,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
       </div>
-  
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=Qicloud-W&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+  ————————
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <!-- GitHub 数据统计 -->
